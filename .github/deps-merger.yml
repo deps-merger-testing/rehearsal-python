@@ -1,4 +1,4 @@
 mode: merge
-max_update_type: patch
+max_update_type: major
 require_checks: true
 agent_review: false
